@@ -1,4 +1,4 @@
-package ru.epereverzev.selenium;
+package ru.epereverzev.selenium.pages;
 
 import java.util.concurrent.TimeUnit;
 
